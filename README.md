@@ -1,6 +1,6 @@
 # Moneybook
 
-<a href="https://hits.sh/github.com/pardnchiu/moneybook/"><img alt="Hits" src="https://hits.sh/github.com/pardnchiu/moneybook.svg?label=Hit"/></a> <img src="https://img.shields.io/github/repo-size/pardnchiu/moneybook?label=Size"> <img src="https://img.shields.io/github/license/pardnchiu/moneybook?label=License"> <img src="https://img.shields.io/badge/Developer-邱敬幃%20Pardn%20Chiu-A374BF">
+<a href="https://hits.sh/github.com/pardnchiu/moneybook/"><img alt="Hits" src="https://hits.sh/github.com/pardnchiu/moneybook.svg?label=Hit"/></a> <img src="https://img.shields.io/github/repo-size/pardnchiu/moneybook?label=Size"> <img src="https://img.shields.io/github/license/pardnchiu/moneybook?label=License&ver=1"> <img src="https://img.shields.io/badge/Developer-邱敬幃%20Pardn%20Chiu-A374BF">
 
 ![Moneybook - 邱敬幃 Pardn Chiu](https://pardn.io/image/repo/moneybook.jpg)
 
